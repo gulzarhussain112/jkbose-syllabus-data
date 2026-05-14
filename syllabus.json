@@ -40,6 +40,17 @@
           "fileName": "class10_english.pdf"
         }
       ]
+    },
+    {
+      "name": "Class 11th",
+      "streams": [],
+      "subjects": [
+        {
+          "name": "English",
+          "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "fileName": "class11_english.pdf"
+        }
+      ]
     }
   ]
 }
