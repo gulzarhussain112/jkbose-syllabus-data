@@ -1,0 +1,45 @@
+{
+  "classes": [
+    {
+      "name": "Class 12th",
+      "streams": [
+        {
+          "name": "Science",
+          "subjects": [
+            {
+              "name": "English",
+              "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+              "fileName": "english.pdf"
+            },
+            {
+              "name": "Physics",
+              "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+              "fileName": "physics.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Commerce",
+          "subjects": [
+            {
+              "name": "Business Studies",
+              "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+              "fileName": "business.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 10th",
+      "streams": [],
+      "subjects": [
+        {
+          "name": "English",
+          "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "fileName": "class10_english.pdf"
+        }
+      ]
+    }
+  ]
+}
