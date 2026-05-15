@@ -1,0 +1,42 @@
+{
+  "classes": [
+    {
+      "name": "Class 12th",
+      "streams": [
+        {
+          "name": "Science",
+          "subjects": [
+            {
+              "name": "Physics",
+              "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+            },
+            {
+              "name": "Chemistry",
+              "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+            }
+          ]
+        },
+        {
+          "name": "Commerce",
+          "subjects": [
+            {
+              "name": "Business Studies",
+              "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Class 10th",
+      "streams": [],
+      "subjects": [
+        {
+          "name": "English",
+          "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+        }
+      ]
+    }
+  ]
+}
