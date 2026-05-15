@@ -8,11 +8,13 @@
           "subjects": [
             {
               "name": "Physics",
-              "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+              "pdfUrl": "https://drive.google.com/file/d/YOUR_FILE_ID/view",
+              "fileName": ""
             },
             {
               "name": "Chemistry",
-              "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+              "pdfUrl": "https://drive.google.com/file/d/YOUR_FILE_ID/view",
+              "fileName": ""
             }
           ]
         },
@@ -21,7 +23,8 @@
           "subjects": [
             {
               "name": "Business Studies",
-              "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+              "pdfUrl": "https://drive.google.com/file/d/YOUR_FILE_ID/view",
+              "fileName": ""
             }
           ]
         }
@@ -34,7 +37,8 @@
       "subjects": [
         {
           "name": "English",
-          "url": "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+          "pdfUrl": "https://drive.google.com/file/d/YOUR_FILE_ID/view",
+          "fileName": ""
         }
       ]
     }
