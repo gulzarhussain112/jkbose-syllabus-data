@@ -2,53 +2,154 @@
   "classes": [
     {
       "name": "Class 12th",
+
       "streams": [
         {
           "name": "Science",
+
+          "pdfUrl": "https://yourcdn.com/class12_science.pdf",
+          "fileName": "class12_science.pdf",
+
           "subjects": [
             {
               "name": "English",
-              "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-              "fileName": "english.pdf"
+              "startPage": 7,
+              "endPage": 11
             },
             {
               "name": "Physics",
-              "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-              "fileName": "physics.pdf"
+              "startPage": 12,
+              "endPage": 19
             }
           ]
         },
+
         {
           "name": "Commerce",
+
+          "pdfUrl": "https://yourcdn.com/class12_commerce.pdf",
+          "fileName": "class12_commerce.pdf",
+
           "subjects": [
             {
               "name": "Business Studies",
-              "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-              "fileName": "business.pdf"
+              "startPage": 6,
+              "endPage": 10
             }
           ]
         }
       ]
     },
+
     {
       "name": "Class 10th",
-      "streams": [],
+      "pdfFile": "https://raw.githubusercontent.com/yourrepo/class10.pdf",
+
       "subjects": [
         {
-          "name": "English",
-          "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-          "fileName": "class10_english.pdf"
-        }
-      ]
-    },
-    {
-      "name": "Class 11th",
-      "streams": [],
-      "subjects": [
+          "name": "General English",
+          "startPage": 9,
+          "endPage": 15
+        },
         {
-          "name": "English",
-          "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-          "fileName": "class11_english.pdf"
+          "name": "Hindi",
+          "startPage": 16,
+          "endPage": 19
+        },
+        {
+          "name": "Urdu",
+          "startPage": 20,
+          "endPage": 25
+        },
+        {
+          "name": "Mathematics",
+          "startPage": 26,
+          "endPage": 29
+        },
+        {
+          "name": "Social Science",
+          "startPage": 30,
+          "endPage": 39
+        },
+        {
+          "name": "Science",
+          "startPage": 40,
+          "endPage": 48
+        },
+        {
+          "name": "Computer Science",
+          "startPage": 49,
+          "endPage": 52
+        },
+        {
+          "name": "Dogri",
+          "startPage": 53,
+          "endPage": 53
+        },
+        {
+          "name": "Sanskrit",
+          "startPage": 54,
+          "endPage": 55
+        },
+        {
+          "name": "Bhoti",
+          "startPage": 56,
+          "endPage": 60
+        },
+        {
+          "name": "Punjabi",
+          "startPage": 61,
+          "endPage": 63
+        },
+        {
+          "name": "Persian",
+          "startPage": 64,
+          "endPage": 65
+        },
+        {
+          "name": "Arabic",
+          "startPage": 66,
+          "endPage": 67
+        },
+        {
+          "name": "Kashmiri",
+          "startPage": 68,
+          "endPage": 71
+        },
+        {
+          "name": "Health & Physical Education",
+          "startPage": 72,
+          "endPage": 79
+        },
+        {
+          "name": "Art Education",
+          "startPage": 80,
+          "endPage": 80
+        },
+        {
+          "name": "Painting",
+          "startPage": 81,
+          "endPage": 82
+        },
+        {
+          "name": "Music",
+          "startPage": 83,
+          "endPage": 84
+        },
+        {
+          "name": "Home Science",
+          "startPage": 85,
+          "endPage": 87
+        },
+        {
+          "name": "Art & Drawing",
+          "startPage": 88,
+          "endPage": 89
+        },
+        {
+          "name": "Work Experience",
+          "startPage": 90,
+          "endPage": 91
         }
       ]
     }
