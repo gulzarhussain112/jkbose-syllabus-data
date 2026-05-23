@@ -38,12 +38,18 @@
             }
           ]
         }
-      ]
+      ],
+
+      "subjects": []
     },
 
     {
       "name": "Class 10th",
-      "pdfFile": "https://raw.githubusercontent.com/yourrepo/class10.pdf",
+
+      "streams": [],
+
+      "pdfUrl": "https://raw.githubusercontent.com/yourrepo/class10.pdf",
+      "fileName": "class10.pdf",
 
       "subjects": [
         {
