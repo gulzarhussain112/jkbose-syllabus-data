@@ -4,7 +4,7 @@
       "name": "Class 11th",
 
       "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class11.pdf",
-
+      "pageOffset": 8,
       "streams": [
         {
           "name": "Science",
@@ -460,111 +460,113 @@
 
       "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class10.pdf",
 
+      "pageOffset": 1,
+
       "subjects": [
         {
           "name": "General English",
-          "startPage": 9,
-          "endPage": 15
+          "startPage": 8,
+          "endPage": 14
         },
         {
           "name": "Hindi",
-          "startPage": 16,
-          "endPage": 19
+          "startPage": 15,
+          "endPage": 18
         },
         {
           "name": "Urdu",
-          "startPage": 20,
-          "endPage": 25
+          "startPage": 19,
+          "endPage": 24
         },
         {
           "name": "Mathematics",
-          "startPage": 26,
-          "endPage": 29
+          "startPage": 25,
+          "endPage": 28
         },
         {
           "name": "Social Science",
-          "startPage": 30,
-          "endPage": 39
+          "startPage": 29,
+          "endPage": 38
         },
         {
           "name": "Science",
-          "startPage": 40,
-          "endPage": 48
+          "startPage": 39,
+          "endPage": 47
         },
         {
           "name": "Computer Science",
-          "startPage": 49,
-          "endPage": 52
+          "startPage": 48,
+          "endPage": 51
         },
         {
           "name": "Dogri",
-          "startPage": 53,
-          "endPage": 53
+          "startPage": 52,
+          "endPage": 52
         },
         {
           "name": "Sanskrit",
-          "startPage": 54,
-          "endPage": 55
+          "startPage": 53,
+          "endPage": 54
         },
         {
           "name": "Bhoti",
-          "startPage": 56,
-          "endPage": 60
+          "startPage": 55,
+          "endPage": 59
         },
         {
           "name": "Punjabi",
-          "startPage": 61,
-          "endPage": 63
+          "startPage": 60,
+          "endPage": 62
         },
         {
           "name": "Persian",
-          "startPage": 64,
-          "endPage": 65
+          "startPage": 63,
+          "endPage": 64
         },
         {
           "name": "Arabic",
-          "startPage": 66,
-          "endPage": 67
+          "startPage": 65,
+          "endPage": 66
         },
         {
           "name": "Kashmiri",
-          "startPage": 68,
-          "endPage": 71
+          "startPage": 67,
+          "endPage": 70
         },
         {
           "name": "Health & Physical Education",
-          "startPage": 72,
-          "endPage": 79
+          "startPage": 71,
+          "endPage": 78
         },
         {
           "name": "Art Education",
-          "startPage": 80,
-          "endPage": 80
+          "startPage": 79,
+          "endPage": 79
         },
         {
           "name": "Painting",
-          "startPage": 81,
-          "endPage": 82
+          "startPage": 80,
+          "endPage": 81
         },
         {
           "name": "Music",
-          "startPage": 83,
-          "endPage": 84
+          "startPage": 82,
+          "endPage": 83
         },
         {
           "name": "Home Science",
-          "startPage": 85,
-          "endPage": 87
+          "startPage": 84,
+          "endPage": 86
         },
         {
           "name": "Art & Drawing",
-          "startPage": 88,
-          "endPage": 89
+          "startPage": 87,
+          "endPage": 88
         },
         {
           "name": "Work Experience",
-          "startPage": 90,
-          "endPage": 91
+          "startPage": 89,
+          "endPage": 90
         }
       ]
     }
