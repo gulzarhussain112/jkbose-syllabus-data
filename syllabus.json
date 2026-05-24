@@ -4,7 +4,9 @@
       "name": "Class 11th",
 
       "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class11.pdf",
+
       "pageOffset": 8,
+
       "streams": [
         {
           "name": "Science",
@@ -12,7 +14,7 @@
           "subjects": [
             {
               "name": "General English",
-              "startPage": 1,
+              "startPage": 3,
               "endPage": 5
             },
             {
@@ -77,8 +79,8 @@
             },
             {
               "name": "Islamic Studies",
-              "startPage": 90,
-              "endPage": 91
+              "startPage": 89,
+              "endPage": 89
             },
             {
               "name": "Vedic Studies",
@@ -109,7 +111,7 @@
           "subjects": [
             {
               "name": "General English",
-              "startPage": 1,
+              "startPage": 3,
               "endPage": 5
             },
             {
@@ -174,8 +176,8 @@
             },
             {
               "name": "Islamic Studies",
-              "startPage": 90,
-              "endPage": 91
+              "startPage": 89,
+              "endPage": 89
             },
             {
               "name": "Vedic Studies",
@@ -201,13 +203,13 @@
           "subjects": [
             {
               "name": "General English",
-              "startPage": 1,
+              "startPage": 3,
               "endPage": 5
             },
             {
               "name": "Urdu",
-              "startPage": 169,
-              "endPage": 172
+              "startPage": 167,
+              "endPage": 169
             },
             {
               "name": "Hindi",
@@ -216,13 +218,13 @@
             },
             {
               "name": "Bhoti",
-              "startPage": 151,
-              "endPage": 152
+              "startPage": 153,
+              "endPage": 160
             },
             {
               "name": "Dogri",
-              "startPage": 89,
-              "endPage": 89
+              "startPage": 90,
+              "endPage": 91
             },
             {
               "name": "Kashmiri",
@@ -246,8 +248,8 @@
             },
             {
               "name": "Persian",
-              "startPage": 149,
-              "endPage": 150
+              "startPage": 151,
+              "endPage": 152
             },
             {
               "name": "Economics",
@@ -271,8 +273,8 @@
             },
             {
               "name": "Psychology",
-              "startPage": 19,
-              "endPage": 21
+              "startPage": 22,
+              "endPage": 23
             },
             {
               "name": "Music",
@@ -296,8 +298,8 @@
             },
             {
               "name": "History",
-              "startPage": 71,
-              "endPage": 74
+              "startPage": 6,
+              "endPage": 8
             },
             {
               "name": "Home Science",
@@ -316,8 +318,8 @@
             },
             {
               "name": "Political Science",
-              "startPage": 22,
-              "endPage": 23
+              "startPage": 19,
+              "endPage": 21
             },
             {
               "name": "Computer Science",
@@ -346,8 +348,8 @@
             },
             {
               "name": "Islamic Studies",
-              "startPage": 90,
-              "endPage": 91
+              "startPage": 89,
+              "endPage": 89
             },
             {
               "name": "Vedic Studies",
@@ -383,13 +385,13 @@
           "subjects": [
             {
               "name": "General English",
-              "startPage": 1,
+              "startPage": 3,
               "endPage": 5
             },
             {
               "name": "Family Health Care & Prevention",
-              "startPage": 80,
-              "endPage": 84
+              "startPage": 141,
+              "endPage": 148
             },
             {
               "name": "Food Science",
@@ -398,8 +400,8 @@
             },
             {
               "name": "Management of Resources",
-              "startPage": 47,
-              "endPage": 57
+              "startPage": 141,
+              "endPage": 148
             },
             {
               "name": "Computer Science",
@@ -418,8 +420,8 @@
             },
             {
               "name": "Islamic Studies",
-              "startPage": 90,
-              "endPage": 91
+              "startPage": 89,
+              "endPage": 89
             },
             {
               "name": "Vedic Studies",
@@ -452,7 +454,7 @@
 
       "subjects": []
     },
-
+    
     {
       "name": "Class 10th",
 
