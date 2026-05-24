@@ -3,23 +3,102 @@
     {
       "name": "Class 11th",
 
+      "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class11.pdf",
+
       "streams": [
         {
           "name": "Science",
 
-          "pdfUrl": "https://yourcdn.com/class12_science.pdf",
-          "fileName": "class12_science.pdf",
-
           "subjects": [
             {
-              "name": "English",
-              "startPage": 7,
-              "endPage": 11
+              "name": "General English",
+              "startPage": 1,
+              "endPage": 5
             },
             {
               "name": "Physics",
-              "startPage": 12,
-              "endPage": 19
+              "startPage": 31,
+              "endPage": 37
+            },
+            {
+              "name": "Chemistry",
+              "startPage": 38,
+              "endPage": 41
+            },
+            {
+              "name": "Biology",
+              "startPage": 42,
+              "endPage": 46
+            },
+            {
+              "name": "Geography",
+              "startPage": 16,
+              "endPage": 18
+            },
+            {
+              "name": "Geology",
+              "startPage": 116,
+              "endPage": 120
+            },
+            {
+              "name": "Microbiology",
+              "startPage": 108,
+              "endPage": 110
+            },
+            {
+              "name": "Biotechnology",
+              "startPage": 102,
+              "endPage": 104
+            },
+            {
+              "name": "Computer Science",
+              "startPage": 61,
+              "endPage": 64
+            },
+            {
+              "name": "Information Practices",
+              "startPage": 65,
+              "endPage": 67
+            },
+            {
+              "name": "Environmental Science",
+              "startPage": 105,
+              "endPage": 107
+            },
+            {
+              "name": "Functional English",
+              "startPage": 97,
+              "endPage": 98
+            },
+            {
+              "name": "Physical Education",
+              "startPage": 138,
+              "endPage": 140
+            },
+            {
+              "name": "Islamic Studies",
+              "startPage": 90,
+              "endPage": 91
+            },
+            {
+              "name": "Vedic Studies",
+              "startPage": 92,
+              "endPage": 93
+            },
+            {
+              "name": "Buddhist Studies",
+              "startPage": 94,
+              "endPage": 95
+            },
+            {
+              "name": "Electronics",
+              "startPage": 68,
+              "endPage": 70
+            },
+            {
+              "name": "Food Technology",
+              "startPage": 114,
+              "endPage": 115
             }
           ]
         },
@@ -27,14 +106,345 @@
         {
           "name": "Commerce",
 
-          "pdfUrl": "https://yourcdn.com/class12_commerce.pdf",
-          "fileName": "class12_commerce.pdf",
+          "subjects": [
+            {
+              "name": "General English",
+              "startPage": 1,
+              "endPage": 5
+            },
+            {
+              "name": "Business Studies",
+              "startPage": 47,
+              "endPage": 57
+            },
+            {
+              "name": "Accountancy",
+              "startPage": 58,
+              "endPage": 60
+            },
+            {
+              "name": "Entrepreneurship",
+              "startPage": 121,
+              "endPage": 130
+            },
+            {
+              "name": "Economics",
+              "startPage": 9,
+              "endPage": 15
+            },
+            {
+              "name": "Business Mathematics",
+              "startPage": 134,
+              "endPage": 135
+            },
+            {
+              "name": "Typewriting & Shorthand",
+              "startPage": 131,
+              "endPage": 133
+            },
+            {
+              "name": "Public Administration",
+              "startPage": 173,
+              "endPage": 175
+            },
+            {
+              "name": "Computer Science",
+              "startPage": 61,
+              "endPage": 64
+            },
+            {
+              "name": "Information Practices",
+              "startPage": 65,
+              "endPage": 67
+            },
+            {
+              "name": "Environmental Science",
+              "startPage": 105,
+              "endPage": 107
+            },
+            {
+              "name": "Functional English",
+              "startPage": 97,
+              "endPage": 98
+            },
+            {
+              "name": "Physical Education",
+              "startPage": 138,
+              "endPage": 140
+            },
+            {
+              "name": "Islamic Studies",
+              "startPage": 90,
+              "endPage": 91
+            },
+            {
+              "name": "Vedic Studies",
+              "startPage": 92,
+              "endPage": 93
+            },
+            {
+              "name": "Buddhist Studies",
+              "startPage": 94,
+              "endPage": 95
+            },
+            {
+              "name": "Travel Tourism & Hotel Management",
+              "startPage": 136,
+              "endPage": 137
+            }
+          ]
+        },
+
+        {
+          "name": "Humanities",
 
           "subjects": [
             {
-              "name": "Business Studies",
-              "startPage": 6,
-              "endPage": 10
+              "name": "General English",
+              "startPage": 1,
+              "endPage": 5
+            },
+            {
+              "name": "Urdu",
+              "startPage": 169,
+              "endPage": 172
+            },
+            {
+              "name": "Hindi",
+              "startPage": 99,
+              "endPage": 101
+            },
+            {
+              "name": "Bhoti",
+              "startPage": 151,
+              "endPage": 152
+            },
+            {
+              "name": "Dogri",
+              "startPage": 89,
+              "endPage": 89
+            },
+            {
+              "name": "Kashmiri",
+              "startPage": 163,
+              "endPage": 166
+            },
+            {
+              "name": "Punjabi",
+              "startPage": 161,
+              "endPage": 161
+            },
+            {
+              "name": "Arabic",
+              "startPage": 96,
+              "endPage": 96
+            },
+            {
+              "name": "Sanskrit",
+              "startPage": 170,
+              "endPage": 172
+            },
+            {
+              "name": "Persian",
+              "startPage": 149,
+              "endPage": 150
+            },
+            {
+              "name": "Economics",
+              "startPage": 9,
+              "endPage": 15
+            },
+            {
+              "name": "Mathematics",
+              "startPage": 27,
+              "endPage": 30
+            },
+            {
+              "name": "Applied Mathematics",
+              "startPage": 87,
+              "endPage": 88
+            },
+            {
+              "name": "Sociology",
+              "startPage": 24,
+              "endPage": 26
+            },
+            {
+              "name": "Psychology",
+              "startPage": 19,
+              "endPage": 21
+            },
+            {
+              "name": "Music",
+              "startPage": 85,
+              "endPage": 86
+            },
+            {
+              "name": "Geography",
+              "startPage": 16,
+              "endPage": 18
+            },
+            {
+              "name": "Philosophy",
+              "startPage": 75,
+              "endPage": 76
+            },
+            {
+              "name": "Education",
+              "startPage": 77,
+              "endPage": 79
+            },
+            {
+              "name": "History",
+              "startPage": 71,
+              "endPage": 74
+            },
+            {
+              "name": "Home Science",
+              "startPage": 141,
+              "endPage": 148
+            },
+            {
+              "name": "Public Administration",
+              "startPage": 173,
+              "endPage": 175
+            },
+            {
+              "name": "Statistics",
+              "startPage": 71,
+              "endPage": 74
+            },
+            {
+              "name": "Political Science",
+              "startPage": 22,
+              "endPage": 23
+            },
+            {
+              "name": "Computer Science",
+              "startPage": 61,
+              "endPage": 64
+            },
+            {
+              "name": "Information Practices",
+              "startPage": 65,
+              "endPage": 67
+            },
+            {
+              "name": "Environmental Science",
+              "startPage": 105,
+              "endPage": 107
+            },
+            {
+              "name": "Functional English",
+              "startPage": 97,
+              "endPage": 98
+            },
+            {
+              "name": "Physical Education",
+              "startPage": 138,
+              "endPage": 140
+            },
+            {
+              "name": "Islamic Studies",
+              "startPage": 90,
+              "endPage": 91
+            },
+            {
+              "name": "Vedic Studies",
+              "startPage": 92,
+              "endPage": 93
+            },
+            {
+              "name": "Buddhist Studies",
+              "startPage": 94,
+              "endPage": 95
+            },
+            {
+              "name": "Travel Tourism & Hotel Management",
+              "startPage": 136,
+              "endPage": 137
+            },
+            {
+              "name": "Food Technology",
+              "startPage": 114,
+              "endPage": 115
+            },
+            {
+              "name": "English Literature",
+              "startPage": 149,
+              "endPage": 150
+            }
+          ]
+        },
+
+        {
+          "name": "Home Science",
+
+          "subjects": [
+            {
+              "name": "General English",
+              "startPage": 1,
+              "endPage": 5
+            },
+            {
+              "name": "Family Health Care & Prevention",
+              "startPage": 80,
+              "endPage": 84
+            },
+            {
+              "name": "Food Science",
+              "startPage": 114,
+              "endPage": 115
+            },
+            {
+              "name": "Management of Resources",
+              "startPage": 47,
+              "endPage": 57
+            },
+            {
+              "name": "Computer Science",
+              "startPage": 61,
+              "endPage": 64
+            },
+            {
+              "name": "Information Practices",
+              "startPage": 65,
+              "endPage": 67
+            },
+            {
+              "name": "Functional English",
+              "startPage": 97,
+              "endPage": 98
+            },
+            {
+              "name": "Islamic Studies",
+              "startPage": 90,
+              "endPage": 91
+            },
+            {
+              "name": "Vedic Studies",
+              "startPage": 92,
+              "endPage": 93
+            },
+            {
+              "name": "Buddhist Studies",
+              "startPage": 94,
+              "endPage": 95
+            },
+            {
+              "name": "Physical Education",
+              "startPage": 138,
+              "endPage": 140
+            },
+            {
+              "name": "Travel Tourism & Hotel Management",
+              "startPage": 136,
+              "endPage": 137
+            },
+            {
+              "name": "Food Technology",
+              "startPage": 114,
+              "endPage": 115
             }
           ]
         }
@@ -48,8 +458,7 @@
 
       "streams": [],
 
-      "pdfUrl": "https://raw.githubusercontent.com/yourrepo/class10.pdf",
-      "fileName": "class10.pdf",
+      "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class10.pdf",
 
       "subjects": [
         {
