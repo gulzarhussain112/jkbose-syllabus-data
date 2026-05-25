@@ -1005,6 +1005,24 @@
           "endPage": 90
         }
       ]
+    },
+    {
+      "name": "Class 9th",
+
+      "streams": [],
+
+      "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class10.pdf",
+
+      "pageOffset": 1,
+
+      "subjects": [
+        {
+          "name": "General English",
+          "startPage": 8,
+          "endPage": 14
+        }  
+      ]
     }
+    
   ]
 }
