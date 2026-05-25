@@ -116,8 +116,8 @@
             },
             {
               "name": "Entrepreneurship",
-              "startPage": 121,
-              "endPage": 123
+              "startPage": 122,
+              "endPage": 124
             },
             {
               "name": "Economics",
@@ -131,8 +131,8 @@
             },
             {
               "name": "Typewriting & Shorthand",
-              "startPage": 124,
-              "endPage": 125
+              "startPage": 125,
+              "endPage": 126
             },
             {
               "name": "Public Administration",
@@ -208,7 +208,7 @@
             },
             {
               "name": "Punjabi",
-              "startPage": 134,
+              "startPage": 135,
               "endPage": 135
             },
             {
@@ -365,18 +365,18 @@
             },
             {
               "name": "Human Development",
-              "startPage": 126,
-              "endPage": 127
+              "startPage": 127,
+              "endPage": 128
             },
             {
               "name": "Clothing for Family",
-              "startPage": 128,
-              "endPage": 129
+              "startPage": 129,
+              "endPage": 130
             },
             {
               "name": "Extension Education",
-              "startPage": 130,
-              "endPage": 131
+              "startPage": 131,
+              "endPage": 132
             },
             {
               "name": "Computer Science",
@@ -425,8 +425,8 @@
             },
             {
               "name": "Food Technology",
-              "startPage": 132,
-              "endPage": 133
+              "startPage": 133,
+              "endPage": 134
             }
           ]
         }
@@ -888,7 +888,7 @@
 
       "subjects": []
     },
-    
+
     {
       "name": "Class 10th",
 
