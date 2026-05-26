@@ -1022,6 +1022,23 @@
           "endPage": 14
         }  
       ]
+    },
+    {
+      "name": "Class 8th",
+
+      "streams": [],
+
+      "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class10.pdf",
+
+      "pageOffset": 1,
+
+      "subjects": [
+        {
+          "name": "Math",
+          "startPage": 8,
+          "endPage": 14
+        }  
+      ]
     }
     
   ]
