@@ -844,49 +844,434 @@
             },
             {
               "name": "Information Practices",
-              "startPage": 65,
-              "endPage": 67
-            },
-            {
-              "name": "Functional English",
-              "startPage": 97,
-              "endPage": 98
-            },
-            {
-              "name": "Islamic Studies",
-              "startPage": 89,
-              "endPage": 89
-            },
-            {
-              "name": "Vedic Studies",
-              "startPage": 92,
-              "endPage": 93
-            },
-            {
-              "name": "Buddhist Studies",
-              "startPage": 94,
-              "endPage": 95
-            },
-            {
-              "name": "Physical Education",
-              "startPage": 138,
-              "endPage": 140
-            },
-            {
-              "name": "Travel Tourism & Hotel Management",
-              "startPage": 136,
-              "endPage": 137
-            },
-            {
-              "name": "Food Technology",
-              "startPage": 114,
-              "endPage": 115
-            }
-          ]
-        }
-      ],
+{
+  "name": "Class 11th",
 
-      "subjects": []
+  "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class11.pdf",
+
+  "pageOffset": 8,
+
+  "subjectBank": [
+
+    {
+      "id": "english",
+      "name": "General English",
+      "startPage": 3,
+      "endPage": 5
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "startPage": 31,
+      "endPage": 37
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "startPage": 38,
+      "endPage": 41
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "startPage": 42,
+      "endPage": 46
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "startPage": 16,
+      "endPage": 18
+    },
+    {
+      "id": "geology",
+      "name": "Geology",
+      "startPage": 116,
+      "endPage": 120
+    },
+    {
+      "id": "microbiology",
+      "name": "Microbiology",
+      "startPage": 108,
+      "endPage": 110
+    },
+    {
+      "id": "biotechnology",
+      "name": "Biotechnology",
+      "startPage": 102,
+      "endPage": 104
+    },
+    {
+      "id": "computer_science",
+      "name": "Computer Science",
+      "startPage": 61,
+      "endPage": 64
+    },
+    {
+      "id": "information_practices",
+      "name": "Information Practices",
+      "startPage": 65,
+      "endPage": 67
+    },
+    {
+      "id": "environmental_science",
+      "name": "Environmental Science",
+      "startPage": 105,
+      "endPage": 107
+    },
+    {
+      "id": "functional_english",
+      "name": "Functional English",
+      "startPage": 97,
+      "endPage": 98
+    },
+    {
+      "id": "physical_education",
+      "name": "Physical Education",
+      "startPage": 138,
+      "endPage": 140
+    },
+    {
+      "id": "islamic_studies",
+      "name": "Islamic Studies",
+      "startPage": 89,
+      "endPage": 89
+    },
+    {
+      "id": "vedic_studies",
+      "name": "Vedic Studies",
+      "startPage": 92,
+      "endPage": 93
+    },
+    {
+      "id": "buddhist_studies",
+      "name": "Buddhist Studies",
+      "startPage": 94,
+      "endPage": 95
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "startPage": 68,
+      "endPage": 70
+    },
+    {
+      "id": "food_technology",
+      "name": "Food Technology",
+      "startPage": 114,
+      "endPage": 115
+    },
+    {
+      "id": "business_studies",
+      "name": "Business Studies",
+      "startPage": 47,
+      "endPage": 57
+    },
+    {
+      "id": "accountancy",
+      "name": "Accountancy",
+      "startPage": 58,
+      "endPage": 60
+    },
+    {
+      "id": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "startPage": 121,
+      "endPage": 130
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "startPage": 9,
+      "endPage": 15
+    },
+    {
+      "id": "business_mathematics",
+      "name": "Business Mathematics",
+      "startPage": 134,
+      "endPage": 135
+    },
+    {
+      "id": "typewriting_shorthand",
+      "name": "Typewriting & Shorthand",
+      "startPage": 131,
+      "endPage": 133
+    },
+    {
+      "id": "public_administration",
+      "name": "Public Administration",
+      "startPage": 173,
+      "endPage": 175
+    },
+    {
+      "id": "travel_tourism",
+      "name": "Travel Tourism & Hotel Management",
+      "startPage": 136,
+      "endPage": 137
+    },
+    {
+      "id": "urdu",
+      "name": "Urdu",
+      "startPage": 167,
+      "endPage": 169
+    },
+    {
+      "id": "hindi",
+      "name": "Hindi",
+      "startPage": 99,
+      "endPage": 101
+    },
+    {
+      "id": "bhoti",
+      "name": "Bhoti",
+      "startPage": 153,
+      "endPage": 160
+    },
+    {
+      "id": "dogri",
+      "name": "Dogri",
+      "startPage": 90,
+      "endPage": 91
+    },
+    {
+      "id": "kashmiri",
+      "name": "Kashmiri",
+      "startPage": 163,
+      "endPage": 166
+    },
+    {
+      "id": "punjabi",
+      "name": "Punjabi",
+      "startPage": 161,
+      "endPage": 161
+    },
+    {
+      "id": "arabic",
+      "name": "Arabic",
+      "startPage": 96,
+      "endPage": 96
+    },
+    {
+      "id": "sanskrit",
+      "name": "Sanskrit",
+      "startPage": 170,
+      "endPage": 172
+    },
+    {
+      "id": "persian",
+      "name": "Persian",
+      "startPage": 151,
+      "endPage": 152
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "startPage": 27,
+      "endPage": 30
+    },
+    {
+      "id": "applied_mathematics",
+      "name": "Applied Mathematics",
+      "startPage": 87,
+      "endPage": 88
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "startPage": 24,
+      "endPage": 26
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "startPage": 22,
+      "endPage": 23
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "startPage": 85,
+      "endPage": 86
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "startPage": 75,
+      "endPage": 76
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "startPage": 77,
+      "endPage": 79
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "startPage": 6,
+      "endPage": 8
+    },
+    {
+      "id": "home_science",
+      "name": "Home Science",
+      "startPage": 141,
+      "endPage": 148
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "startPage": 71,
+      "endPage": 74
+    },
+    {
+      "id": "political_science",
+      "name": "Political Science",
+      "startPage": 19,
+      "endPage": 21
+    },
+    {
+      "id": "english_literature",
+      "name": "English Literature",
+      "startPage": 149,
+      "endPage": 150
+    },
+    {
+      "id": "family_health",
+      "name": "Family Health Care & Prevention",
+      "startPage": 141,
+      "endPage": 148
+    },
+    {
+      "id": "food_science",
+      "name": "Food Science",
+      "startPage": 114,
+      "endPage": 115
+    },
+    {
+      "id": "resource_management",
+      "name": "Management of Resources",
+      "startPage": 141,
+      "endPage": 148
+    }
+
+  ],
+
+  "streams": [
+
+    {
+      "name": "Science",
+
+      "subjectRefs": [
+        "english",
+        "physics",
+        "chemistry",
+        "biology",
+        "geography",
+        "geology",
+        "microbiology",
+        "biotechnology",
+        "computer_science",
+        "information_practices",
+        "environmental_science",
+        "functional_english",
+        "physical_education",
+        "islamic_studies",
+        "vedic_studies",
+        "buddhist_studies",
+        "electronics",
+        "food_technology"
+      ]
+    },
+
+    {
+      "name": "Commerce",
+
+      "subjectRefs": [
+        "english",
+        "business_studies",
+        "accountancy",
+        "entrepreneurship",
+        "economics",
+        "business_mathematics",
+        "typewriting_shorthand",
+        "public_administration",
+        "computer_science",
+        "information_practices",
+        "environmental_science",
+        "functional_english",
+        "physical_education",
+        "islamic_studies",
+        "vedic_studies",
+        "buddhist_studies",
+        "travel_tourism"
+      ]
+    },
+
+    {
+      "name": "Humanities",
+
+      "subjectRefs": [
+        "english",
+        "urdu",
+        "hindi",
+        "bhoti",
+        "dogri",
+        "kashmiri",
+        "punjabi",
+        "arabic",
+        "sanskrit",
+        "persian",
+        "economics",
+        "mathematics",
+        "applied_mathematics",
+        "sociology",
+        "psychology",
+        "music",
+        "geography",
+        "philosophy",
+        "education",
+        "history",
+        "home_science",
+        "public_administration",
+        "statistics",
+        "political_science",
+        "computer_science",
+        "information_practices",
+        "environmental_science",
+        "functional_english",
+        "physical_education",
+        "islamic_studies",
+        "vedic_studies",
+        "buddhist_studies",
+        "travel_tourism",
+        "food_technology",
+        "english_literature"
+      ]
+    },
+
+    {
+      "name": "Home Science",
+
+      "subjectRefs": [
+        "english",
+        "family_health",
+        "food_science",
+        "resource_management",
+        "computer_science",
+        "information_practices",
+        "functional_english",
+        "islamic_studies",
+        "vedic_studies",
+        "buddhist_studies",
+        "physical_education",
+        "travel_tourism",
+        "food_technology"
+      ]
+    }
+
+  ],
+
+  "subjects": []
     },
 
     {
