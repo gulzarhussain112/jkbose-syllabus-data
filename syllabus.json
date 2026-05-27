@@ -11,6 +11,7 @@
 
         {
           "id": "english",
+          "status": "draft",
           "name": "General English",
           "startPage": 3,
           "endPage": 6
