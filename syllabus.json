@@ -11,7 +11,6 @@
 
         {
           "id": "english",
-          "status": "active",
           "name": "General English",
           "startPage": 3,
           "endPage": 6
