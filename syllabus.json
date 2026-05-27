@@ -12,6 +12,7 @@
         {
           "id": "english",
           "name": "General English",
+          "status": "draft",
           "startPage": 3,
           "endPage": 6
         },
