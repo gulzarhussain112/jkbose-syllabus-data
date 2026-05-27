@@ -847,119 +847,172 @@
       ]
     },
     {
-      "name":"Class 10th",
-      "streams":[
+      "name": "Class 10th",
+
+      "streams": [],
+
+      "pdfFile": "https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class10.pdf",
+
+      "pageOffset": 1,
+
+      "subjectBank": [
+
+        {
+          "id": "general_english",
+          "name": "General English",
+          "startPage": 8,
+          "endPage": 14
+        },
+        {
+          "id": "hindi",
+          "name": "Hindi",
+          "startPage": 15,
+          "endPage": 18
+        },
+        {
+          "id": "urdu",
+          "name": "Urdu",
+          "startPage": 19,
+          "endPage": 24
+        },
+        {
+          "id": "mathematics",
+          "name": "Mathematics",
+          "startPage": 25,
+          "endPage": 28
+        },
+        {
+          "id": "social_science",
+          "name": "Social Science",
+          "startPage": 29,
+          "endPage": 38
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "startPage": 39,
+          "endPage": 47
+        },
+        {
+          "id": "computer_science",
+          "name": "Computer Science",
+          "startPage": 48,
+          "endPage": 51
+        },
+        {
+          "id": "dogri",
+          "name": "Dogri",
+          "startPage": 52,
+          "endPage": 52
+        },
+        {
+          "id": "sanskrit",
+          "name": "Sanskrit",
+          "startPage": 53,
+          "endPage": 54
+        },
+        {
+          "id": "bhoti",
+          "name": "Bhoti",
+          "startPage": 55,
+          "endPage": 59
+        },
+        {
+          "id": "punjabi",
+          "name": "Punjabi",
+          "startPage": 60,
+          "endPage": 62
+        },
+        {
+          "id": "persian",
+          "name": "Persian",
+          "startPage": 63,
+          "endPage": 64
+        },
+        {
+          "id": "arabic",
+          "name": "Arabic",
+          "startPage": 65,
+          "endPage": 66
+        },
+        {
+          "id": "kashmiri",
+          "name": "Kashmiri",
+          "startPage": 67,
+          "endPage": 70
+        },
+        {
+          "id": "health_physical_education",
+          "name": "Health & Physical Education",
+          "startPage": 71,
+          "endPage": 78
+        },
+        {
+          "id": "art_education",
+          "name": "Art Education",
+          "startPage": 79,
+          "endPage": 79
+        },
+        {
+          "id": "painting",
+          "name": "Painting",
+          "startPage": 80,
+          "endPage": 81
+        },
+        {
+          "id": "music",
+          "name": "Music",
+          "startPage": 82,
+          "endPage": 83
+        },
+        {
+          "id": "home_science",
+          "name": "Home Science",
+          "startPage": 84,
+          "endPage": 86
+        },
+        {
+          "id": "art_drawing",
+          "name": "Art & Drawing",
+          "startPage": 87,
+          "endPage": 88
+        },
+        {
+          "id": "work_experience",
+          "name": "Work Experience",
+          "startPage": 89,
+          "endPage": 90
+        }
 
       ],
-      "pdfFile":"https://raw.githubusercontent.com/gulzarhussain112/jkbose-syllabus-data/main/class10.pdf",
-      "pageOffset":1,
-      "subjects":[
-        {
-          "name":"General English",
-          "startPage":8,
-          "endPage":14
-        },
-        {
-          "name":"Hindi",
-          "startPage":15,
-          "endPage":18
-        },
-        {
-          "name":"Urdu",
-          "startPage":19,
-          "endPage":24
-        },
-        {
-          "name":"Mathematics",
-          "startPage":25,
-          "endPage":28
-        },
-        {
-          "name":"Social Science",
-          "startPage":29,
-          "endPage":38
-        },
-        {
-          "name":"Science",
-          "startPage":39,
-          "endPage":47
-        },
-        {
-          "name":"Computer Science",
-          "startPage":48,
-          "endPage":51
-        },
-        {
-          "name":"Dogri",
-          "startPage":52,
-          "endPage":52
-        },
-        {
-          "name":"Sanskrit",
-          "startPage":53,
-          "endPage":54
-        },
-        {
-          "name":"Bhoti",
-          "startPage":55,
-          "endPage":59
-        },
-        {
-          "name":"Punjabi",
-          "startPage":60,
-          "endPage":62
-        },
-        {
-          "name":"Persian",
-          "startPage":63,
-          "endPage":64
-        },
-        {
-          "name":"Arabic",
-          "startPage":65,
-          "endPage":66
-        },
-        {
-          "name":"Kashmiri",
-          "startPage":67,
-          "endPage":70
-        },
-        {
-          "name":"Health & Physical Education",
-          "startPage":71,
-          "endPage":78
-        },
-        {
-          "name":"Art Education",
-          "startPage":79,
-          "endPage":79
-        },
-        {
-          "name":"Painting",
-          "startPage":80,
-          "endPage":81
-        },
-        {
-          "name":"Music",
-          "startPage":82,
-          "endPage":83
-        },
-        {
-          "name":"Home Science",
-          "startPage":84,
-          "endPage":86
-        },
-        {
-          "name":"Art & Drawing",
-          "startPage":87,
-          "endPage":88
-        },
-        {
-          "name":"Work Experience",
-          "startPage":89,
-          "endPage":90
-        }
-      ]
+
+      "subjectRefs": [
+
+        "general_english",
+        "hindi",
+        "urdu",
+        "mathematics",
+        "social_science",
+        "science",
+        "computer_science",
+        "dogri",
+        "sanskrit",
+        "bhoti",
+        "punjabi",
+        "persian",
+        "arabic",
+        "kashmiri",
+        "health_physical_education",
+        "art_education",
+        "painting",
+        "music",
+        "home_science",
+        "art_drawing",
+        "work_experience"
+
+      ],
+
+      "subjects": []
     },
     {
       "name":"Class 9th",
