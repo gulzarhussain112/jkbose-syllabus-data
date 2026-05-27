@@ -8,8 +8,8 @@
           "subjects": [
             {
               "name": "Physics",
-              "pdfUrl": "https://drive.google.com/file/d/YOUR_FILE_ID/view",
-              "fileName": ""
+              "pdfUrl": "https://www.orimi.com/pdf-test.pdf",
+              "fileName": "test"
             },
             {
               "name": "Chemistry",
