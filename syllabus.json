@@ -10,308 +10,307 @@
       "subjectBank": [
 
         {
-          "id": "english",
+          "id": "class_12_english",
           "name": "General English",
-          "status": "draft",
           "startPage": 3,
           "endPage": 6
         },
         {
-          "id": "physics",
+          "id": "class_12_physics",
           "name": "Physics",
           "startPage": 36,
           "endPage": 43
         },
         {
-          "id": "chemistry",
+          "id": "class_12_chemistry",
           "name": "Chemistry",
           "startPage": 44,
           "endPage": 48
         },
         {
-          "id": "biology",
+          "id": "class_12_biology",
           "name": "Biology",
           "startPage": 49,
           "endPage": 53
         },
         {
-          "id": "geography",
+          "id": "class_12_geography",
           "name": "Geography",
           "startPage": 18,
           "endPage": 20
         },
         {
-          "id": "geology",
+          "id": "class_12_geology",
           "name": "Geology",
           "startPage": 151,
           "endPage": 154
         },
         {
-          "id": "microbiology",
+          "id": "class_12_microbiology",
           "name": "Microbiology",
           "startPage": 106,
           "endPage": 107
         },
         {
-          "id": "biotechnology",
+          "id": "class_12_biotechnology",
           "name": "Biotechnology",
           "startPage": 103,
           "endPage": 105
         },
         {
-          "id": "computer_science",
+          "id": "class_12_computer_science",
           "name": "Computer Science",
           "startPage": 94,
           "endPage": 96
         },
         {
-          "id": "information_practices",
+          "id": "class_12_information_practices",
           "name": "Information Practices",
           "startPage": 97,
           "endPage": 98
         },
         {
-          "id": "environmental_science",
+          "id": "class_12_environmental_science",
           "name": "Environmental Science",
           "startPage": 112,
           "endPage": 113
         },
         {
-          "id": "functional_english",
+          "id": "class_12_functional_english",
           "name": "Functional English",
           "startPage": 84,
           "endPage": 85
         },
         {
-          "id": "physical_education",
+          "id": "class_12_physical_education",
           "name": "Physical Education",
           "startPage": 114,
           "endPage": 115
         },
         {
-          "id": "vedic_studies",
+          "id": "class_12_vedic_studies",
           "name": "Vedic Studies",
           "startPage": 86,
           "endPage": 87
         },
         {
-          "id": "electronics",
+          "id": "class_12_electronics",
           "name": "Electronics",
           "startPage": 99,
           "endPage": 100
         },
         {
-          "id": "food_technology",
+          "id": "class_12_food_technology",
           "name": "Food Technology",
           "startPage": 132,
           "endPage": 133
         },
         {
-          "id": "business_studies",
+          "id": "class_12_business_studies",
           "name": "Business Studies",
           "startPage": 54,
           "endPage": 66
         },
         {
-          "id": "accountancy",
+          "id": "class_12_accountancy",
           "name": "Accountancy",
           "startPage": 67,
           "endPage": 71
         },
         {
-          "id": "entrepreneurship",
+          "id": "class_12_entrepreneurship",
           "name": "Entrepreneurship",
           "startPage": 122,
           "endPage": 124
         },
         {
-          "id": "economics",
+          "id": "class_12_economics",
           "name": "Economics",
           "startPage": 11,
           "endPage": 17
         },
         {
-          "id": "business_mathematics",
+          "id": "class_12_business_mathematics",
           "name": "Business Mathematics",
           "startPage": 92,
           "endPage": 93
         },
         {
-          "id": "typewriting_shorthand",
+          "id": "class_12_typewriting_shorthand",
           "name": "Typewriting & Shorthand",
           "startPage": 125,
           "endPage": 126
         },
         {
-          "id": "public_administration",
+          "id": "class_12_public_administration",
           "name": "Public Administration",
           "startPage": 155,
           "endPage": 156
         },
         {
-          "id": "travel_tourism",
+          "id": "class_12_travel_tourism",
           "name": "Travel Tourism & Hotel Management",
           "startPage": 108,
           "endPage": 109
         },
         {
-          "id": "urdu",
+          "id": "class_12_urdu",
           "name": "Urdu",
           "startPage": 144,
           "endPage": 146
         },
         {
-          "id": "hindi",
+          "id": "class_12_hindi",
           "name": "Hindi",
           "startPage": 147,
           "endPage": 148
         },
         {
-          "id": "bhoti",
+          "id": "class_12_bhoti",
           "name": "Bhoti",
           "startPage": 149,
           "endPage": 150
         },
         {
-          "id": "dogri",
+          "id": "class_12_dogri",
           "name": "Dogri",
           "startPage": 136,
           "endPage": 137
         },
         {
-          "id": "kashmiri",
+          "id": "class_12_kashmiri",
           "name": "Kashmiri",
           "startPage": 118,
           "endPage": 120
         },
         {
-          "id": "punjabi",
+          "id": "class_12_punjabi",
           "name": "Punjabi",
           "startPage": 135,
           "endPage": 135
         },
         {
-          "id": "arabic",
+          "id": "class_12_arabic",
           "name": "Arabic",
           "startPage": 142,
           "endPage": 143
         },
         {
-          "id": "sanskrit",
+          "id": "class_12_sanskrit",
           "name": "Sanskrit",
           "startPage": 138,
           "endPage": 139
         },
         {
-          "id": "persian",
+          "id": "class_12_persian",
           "name": "Persian",
           "startPage": 140,
           "endPage": 141
         },
         {
-          "id": "mathematics",
+          "id": "class_12_mathematics",
           "name": "Mathematics",
           "startPage": 31,
           "endPage": 35
         },
         {
-          "id": "applied_mathematics",
+          "id": "class_12_applied_mathematics",
           "name": "Applied Mathematics",
           "startPage": 82,
           "endPage": 83
         },
         {
-          "id": "sociology",
+          "id": "class_12_sociology",
           "name": "Sociology",
           "startPage": 28,
           "endPage": 30
         },
         {
-          "id": "psychology",
+          "id": "class_12_psychology",
           "name": "Psychology",
           "startPage": 25,
           "endPage": 27
         },
         {
-          "id": "music",
+          "id": "class_12_music",
           "name": "Music",
           "startPage": 88,
           "endPage": 89
         },
         {
-          "id": "philosophy",
+          "id": "class_12_philosophy",
           "name": "Philosophy",
           "startPage": 76,
           "endPage": 78
         },
         {
-          "id": "education",
+          "id": "class_12_education",
           "name": "Education",
           "startPage": 79,
           "endPage": 81
         },
         {
-          "id": "history",
+          "id": "class_12_history",
           "name": "History",
           "startPage": 7,
           "endPage": 10
         },
         {
-          "id": "home_science",
+          "id": "class_12_home_science",
           "name": "Home Science",
           "startPage": 72,
           "endPage": 75
         },
         {
-          "id": "statistics",
+          "id": "class_12_statistics",
           "name": "Statistics",
           "startPage": 90,
           "endPage": 91
         },
         {
-          "id": "political_science",
+          "id": "class_12_political_science",
           "name": "Political Science",
           "startPage": 21,
           "endPage": 24
         },
         {
-          "id": "islamic_studies",
+          "id": "class_12_islamic_studies",
           "name": "Islamic Studies",
           "startPage": 157,
           "endPage": 157
         },
         {
-          "id": "buddhist_studies",
+          "id": "class_12_buddhist_studies",
           "name": "Buddhist Studies",
           "startPage": 116,
           "endPage": 117
         },
         {
-          "id": "english_literature",
+          "id": "class_12_english_literature",
           "name": "English Literature",
           "startPage": 101,
           "endPage": 102
         },
         {
-          "id": "human_development",
+          "id": "class_12_human_development",
           "name": "Human Development",
           "startPage": 127,
           "endPage": 128
         },
         {
-          "id": "clothing_family",
+          "id": "class_12_clothing_family",
           "name": "Clothing for Family",
           "startPage": 129,
           "endPage": 130
         },
         {
-          "id": "extension_education",
+          "id": "class_12_extension_education",
           "name": "Extension Education",
           "startPage": 131,
           "endPage": 132
         },
         {
-          "id": "food_technology_home",
+          "id": "class_12_food_technology_home",
           "name": "Food Technology",
           "startPage": 133,
           "endPage": 134
@@ -325,22 +324,22 @@
           "name": "Science",
 
           "subjectRefs": [
-            "english",
-            "physics",
-            "chemistry",
-            "biology",
-            "geography",
-            "geology",
-            "microbiology",
-            "biotechnology",
-            "computer_science",
-            "information_practices",
-            "environmental_science",
-            "functional_english",
-            "physical_education",
-            "vedic_studies",
-            "electronics",
-            "food_technology"
+            "class_12_english",
+            "class_12_physics",
+            "class_12_chemistry",
+            "class_12_biology",
+            "class_12_geography",
+            "class_12_geology",
+            "class_12_microbiology",
+            "class_12_biotechnology",
+            "class_12_computer_science",
+            "class_12_information_practices",
+            "class_12_environmental_science",
+            "class_12_functional_english",
+            "class_12_physical_education",
+            "class_12_vedic_studies",
+            "class_12_electronics",
+            "class_12_food_technology"
           ]
         },
 
@@ -348,20 +347,20 @@
           "name": "Commerce",
 
           "subjectRefs": [
-            "english",
-            "business_studies",
-            "accountancy",
-            "entrepreneurship",
-            "economics",
-            "business_mathematics",
-            "typewriting_shorthand",
-            "public_administration",
-            "computer_science",
-            "information_practices",
-            "environmental_science",
-            "functional_english",
-            "physical_education",
-            "travel_tourism"
+            "class_12_english",
+            "class_12_business_studies",
+            "class_12_accountancy",
+            "class_12_entrepreneurship",
+            "class_12_economics",
+            "class_12_business_mathematics",
+            "class_12_typewriting_shorthand",
+            "class_12_public_administration",
+            "class_12_computer_science",
+            "class_12_information_practices",
+            "class_12_environmental_science",
+            "class_12_functional_english",
+            "class_12_physical_education",
+            "class_12_travel_tourism"
           ]
         },
 
@@ -369,41 +368,41 @@
           "name": "Humanities",
 
           "subjectRefs": [
-            "english",
-            "urdu",
-            "hindi",
-            "bhoti",
-            "dogri",
-            "kashmiri",
-            "punjabi",
-            "arabic",
-            "sanskrit",
-            "persian",
-            "economics",
-            "mathematics",
-            "applied_mathematics",
-            "sociology",
-            "psychology",
-            "music",
-            "geography",
-            "philosophy",
-            "education",
-            "history",
-            "home_science",
-            "public_administration",
-            "statistics",
-            "political_science",
-            "computer_science",
-            "information_practices",
-            "environmental_science",
-            "functional_english",
-            "physical_education",
-            "islamic_studies",
-            "vedic_studies",
-            "buddhist_studies",
-            "travel_tourism",
-            "food_technology",
-            "english_literature"
+            "class_12_english",
+            "class_12_urdu",
+            "class_12_hindi",
+            "class_12_bhoti",
+            "class_12_dogri",
+            "class_12_kashmiri",
+            "class_12_punjabi",
+            "class_12_arabic",
+            "class_12_sanskrit",
+            "class_12_persian",
+            "class_12_economics",
+            "class_12_mathematics",
+            "class_12_applied_mathematics",
+            "class_12_sociology",
+            "class_12_psychology",
+            "class_12_music",
+            "class_12_geography",
+            "class_12_philosophy",
+            "class_12_education",
+            "class_12_history",
+            "class_12_home_science",
+            "class_12_public_administration",
+            "class_12_statistics",
+            "class_12_political_science",
+            "class_12_computer_science",
+            "class_12_information_practices",
+            "class_12_environmental_science",
+            "class_12_functional_english",
+            "class_12_physical_education",
+            "class_12_islamic_studies",
+            "class_12_vedic_studies",
+            "class_12_buddhist_studies",
+            "class_12_travel_tourism",
+            "class_12_food_technology",
+            "class_12_english_literature"
           ]
         },
 
@@ -411,20 +410,20 @@
           "name": "Home Science",
 
           "subjectRefs": [
-            "english",
-            "human_development",
-            "clothing_family",
-            "extension_education",
-            "computer_science",
-            "information_practices",
-            "environmental_science",
-            "functional_english",
-            "islamic_studies",
-            "vedic_studies",
-            "buddhist_studies",
-            "physical_education",
-            "travel_tourism",
-            "food_technology_home"
+            "class_12_english",
+            "class_12_human_development",
+            "class_12_clothing_family",
+            "class_12_extension_education",
+            "class_12_computer_science",
+            "class_12_information_practices",
+            "class_12_environmental_science",
+            "class_12_functional_english",
+            "class_12_islamic_studies",
+            "class_12_vedic_studies",
+            "class_12_buddhist_studies",
+            "class_12_physical_education",
+            "class_12_travel_tourism",
+            "class_12_food_technology_home"
           ]
         }
 
@@ -438,301 +437,301 @@
       "pageOffset":8,
       "subjectBank":[
         {
-          "id":"english",
+          "id":"class_11_english",
           "name":"General English",
           "startPage":3,
           "endPage":5
         },
         {
-          "id":"physics",
+          "id":"class_11_physics",
           "name":"Physics",
           "startPage":31,
           "endPage":37
         },
         {
-          "id":"chemistry",
+          "id":"class_11_chemistry",
           "name":"Chemistry",
           "startPage":38,
           "endPage":41
         },
         {
-          "id":"biology",
+          "id":"class_11_biology",
           "name":"Biology",
           "startPage":42,
           "endPage":46
         },
         {
-          "id":"geography",
+          "id":"class_11_geography",
           "name":"Geography",
           "startPage":16,
           "endPage":18
         },
         {
-          "id":"geology",
+          "id":"class_11_geology",
           "name":"Geology",
           "startPage":116,
           "endPage":120
         },
         {
-          "id":"microbiology",
+          "id":"class_11_microbiology",
           "name":"Microbiology",
           "startPage":108,
           "endPage":110
         },
         {
-          "id":"biotechnology",
+          "id":"class_11_biotechnology",
           "name":"Biotechnology",
           "startPage":102,
           "endPage":104
         },
         {
-          "id":"computer_science",
+          "id":"class_11_computer_science",
           "name":"Computer Science",
           "startPage":61,
           "endPage":64
         },
         {
-          "id":"information_practices",
+          "id":"class_11_information_practices",
           "name":"Information Practices",
           "startPage":65,
           "endPage":67
         },
         {
-          "id":"environmental_science",
+          "id":"class_11_environmental_science",
           "name":"Environmental Science",
           "startPage":105,
           "endPage":107
         },
         {
-          "id":"functional_english",
+          "id":"class_11_functional_english",
           "name":"Functional English",
           "startPage":97,
           "endPage":98
         },
         {
-          "id":"physical_education",
+          "id":"class_11_physical_education",
           "name":"Physical Education",
           "startPage":138,
           "endPage":140
         },
         {
-          "id":"islamic_studies",
+          "id":"class_11_islamic_studies",
           "name":"Islamic Studies",
           "startPage":89,
           "endPage":89
         },
         {
-          "id":"vedic_studies",
+          "id":"class_11_vedic_studies",
           "name":"Vedic Studies",
           "startPage":92,
           "endPage":93
         },
         {
-          "id":"buddhist_studies",
+          "id":"class_11_buddhist_studies",
           "name":"Buddhist Studies",
           "startPage":94,
           "endPage":95
         },
         {
-          "id":"electronics",
+          "id":"class_11_electronics",
           "name":"Electronics",
           "startPage":68,
           "endPage":70
         },
         {
-          "id":"food_technology",
+          "id":"class_11_food_technology",
           "name":"Food Technology",
           "startPage":114,
           "endPage":115
         },
         {
-          "id":"business_studies",
+          "id":"class_11_business_studies",
           "name":"Business Studies",
           "startPage":47,
           "endPage":57
         },
         {
-          "id":"accountancy",
+          "id":"class_11_accountancy",
           "name":"Accountancy",
           "startPage":58,
           "endPage":60
         },
         {
-          "id":"entrepreneurship",
+          "id":"class_11_entrepreneurship",
           "name":"Entrepreneurship",
           "startPage":121,
           "endPage":130
         },
         {
-          "id":"economics",
+          "id":"class_11_economics",
           "name":"Economics",
           "startPage":9,
           "endPage":15
         },
         {
-          "id":"business_mathematics",
+          "id":"class_11_business_mathematics",
           "name":"Business Mathematics",
           "startPage":134,
           "endPage":135
         },
         {
-          "id":"typewriting_shorthand",
+          "id":"class_11_typewriting_shorthand",
           "name":"Typewriting & Shorthand",
           "startPage":131,
           "endPage":133
         },
         {
-          "id":"public_administration",
+          "id":"class_11_public_administration",
           "name":"Public Administration",
           "startPage":173,
           "endPage":175
         },
         {
-          "id":"travel_tourism",
+          "id":"class_11_travel_tourism",
           "name":"Travel Tourism & Hotel Management",
           "startPage":136,
           "endPage":137
         },
         {
-          "id":"urdu",
+          "id":"class_11_urdu",
           "name":"Urdu",
           "startPage":167,
           "endPage":169
         },
         {
-          "id":"hindi",
+          "id":"class_11_hindi",
           "name":"Hindi",
           "startPage":99,
           "endPage":101
         },
         {
-          "id":"bhoti",
+          "id":"class_11_bhoti",
           "name":"Bhoti",
           "startPage":153,
           "endPage":160
         },
         {
-          "id":"dogri",
+          "id":"class_11_dogri",
           "name":"Dogri",
           "startPage":90,
           "endPage":91
         },
         {
-          "id":"kashmiri",
+          "id":"class_11_kashmiri",
           "name":"Kashmiri",
           "startPage":163,
           "endPage":166
         },
         {
-          "id":"punjabi",
+          "id":"class_11_punjabi",
           "name":"Punjabi",
           "startPage":161,
           "endPage":161
         },
         {
-          "id":"arabic",
+          "id":"class_11_arabic",
           "name":"Arabic",
           "startPage":96,
           "endPage":96
         },
         {
-          "id":"sanskrit",
+          "id":"class_11_sanskrit",
           "name":"Sanskrit",
           "startPage":170,
           "endPage":172
         },
         {
-          "id":"persian",
+          "id":"class_11_persian",
           "name":"Persian",
           "startPage":151,
           "endPage":152
         },
         {
-          "id":"mathematics",
+          "id":"class_11_mathematics",
           "name":"Mathematics",
           "startPage":27,
           "endPage":30
         },
         {
-          "id":"applied_mathematics",
+          "id":"class_11_applied_mathematics",
           "name":"Applied Mathematics",
           "startPage":87,
           "endPage":88
         },
         {
-          "id":"sociology",
+          "id":"class_11_sociology",
           "name":"Sociology",
           "startPage":24,
           "endPage":26
         },
         {
-          "id":"psychology",
+          "id":"class_11_psychology",
           "name":"Psychology",
           "startPage":22,
           "endPage":23
         },
         {
-          "id":"music",
+          "id":"class_11_music",
           "name":"Music",
           "startPage":85,
           "endPage":86
         },
         {
-          "id":"philosophy",
+          "id":"class_11_philosophy",
           "name":"Philosophy",
           "startPage":75,
           "endPage":76
         },
         {
-          "id":"education",
+          "id":"class_11_education",
           "name":"Education",
           "startPage":77,
           "endPage":79
         },
         {
-          "id":"history",
+          "id":"class_11_history",
           "name":"History",
           "startPage":6,
           "endPage":8
         },
         {
-          "id":"home_science",
+          "id":"class_11_home_science",
           "name":"Home Science",
           "startPage":141,
           "endPage":148
         },
         {
-          "id":"statistics",
+          "id":"class_11_statistics",
           "name":"Statistics",
           "startPage":71,
           "endPage":74
         },
         {
-          "id":"political_science",
+          "id":"class_11_political_science",
           "name":"Political Science",
           "startPage":19,
           "endPage":21
         },
         {
-          "id":"english_literature",
+          "id":"class_11_english_literature",
           "name":"English Literature",
           "startPage":149,
           "endPage":150
         },
         {
-          "id":"family_health",
+          "id":"class_11_family_health",
           "name":"Family Health Care & Prevention",
           "startPage":141,
           "endPage":148
         },
         {
-          "id":"food_science",
+          "id":"class_11_food_science",
           "name":"Food Science",
           "startPage":114,
           "endPage":115
         },
         {
-          "id":"resource_management",
+          "id":"class_11_resource_management",
           "name":"Management of Resources",
           "startPage":141,
           "endPage":148
@@ -742,104 +741,104 @@
         {
           "name":"Science",
           "subjectRefs":[
-            "english",
-            "physics",
-            "chemistry",
-            "biology",
-            "geography",
-            "geology",
-            "microbiology",
-            "biotechnology",
-            "computer_science",
-            "information_practices",
-            "environmental_science",
-            "functional_english",
-            "physical_education",
-            "islamic_studies",
-            "vedic_studies",
-            "buddhist_studies",
-            "electronics",
-            "food_technology"
+            "class_11_english",
+            "class_11_physics",
+            "class_11_chemistry",
+            "class_11_biology",
+            "class_11_geography",
+            "class_11_geology",
+            "class_11_microbiology",
+            "class_11_biotechnology",
+            "class_11_computer_science",
+            "class_11_information_practices",
+            "class_11_environmental_science",
+            "class_11_functional_english",
+            "class_11_physical_education",
+            "class_11_islamic_studies",
+            "class_11_vedic_studies",
+            "class_11_buddhist_studies",
+            "class_11_electronics",
+            "class_11_food_technology"
           ]
         },
         {
           "name":"Commerce",
           "subjectRefs":[
-            "english",
-            "business_studies",
-            "accountancy",
-            "entrepreneurship",
-            "economics",
-            "business_mathematics",
-            "typewriting_shorthand",
-            "public_administration",
-            "computer_science",
-            "information_practices",
-            "environmental_science",
-            "functional_english",
-            "physical_education",
-            "islamic_studies",
-            "vedic_studies",
-            "buddhist_studies",
-            "travel_tourism"
+            "class_11_english",
+            "class_11_business_studies",
+            "class_11_accountancy",
+            "class_11_entrepreneurship",
+            "class_11_economics",
+            "class_11_business_mathematics",
+            "class_11_typewriting_shorthand",
+            "class_11_public_administration",
+            "class_11_computer_science",
+            "class_11_information_practices",
+            "class_11_environmental_science",
+            "class_11_functional_english",
+            "class_11_physical_education",
+            "class_11_islamic_studies",
+            "class_11_vedic_studies",
+            "class_11_buddhist_studies",
+            "class_11_travel_tourism"
           ]
         },
         {
           "name":"Humanities",
           "subjectRefs":[
-            "english",
-            "urdu",
-            "hindi",
-            "bhoti",
-            "dogri",
-            "kashmiri",
-            "punjabi",
-            "arabic",
-            "sanskrit",
-            "persian",
-            "economics",
-            "mathematics",
-            "applied_mathematics",
-            "sociology",
-            "psychology",
-            "music",
-            "geography",
-            "philosophy",
-            "education",
-            "history",
-            "home_science",
-            "public_administration",
-            "statistics",
-            "political_science",
-            "computer_science",
-            "information_practices",
-            "environmental_science",
-            "functional_english",
-            "physical_education",
-            "islamic_studies",
-            "vedic_studies",
-            "buddhist_studies",
-            "travel_tourism",
-            "food_technology",
-            "english_literature"
+            "class_11_english",
+            "class_11_urdu",
+            "class_11_hindi",
+            "class_11_bhoti",
+            "class_11_dogri",
+            "class_11_kashmiri",
+            "class_11_punjabi",
+            "class_11_arabic",
+            "class_11_sanskrit",
+            "class_11_persian",
+            "class_11_economics",
+            "class_11_mathematics",
+            "class_11_applied_mathematics",
+            "class_11_sociology",
+            "class_11_psychology",
+            "class_11_music",
+            "class_11_geography",
+            "class_11_philosophy",
+            "class_11_education",
+            "class_11_history",
+            "class_11_home_science",
+            "class_11_public_administration",
+            "class_11_statistics",
+            "class_11_political_science",
+            "class_11_computer_science",
+            "class_11_information_practices",
+            "class_11_environmental_science",
+            "class_11_functional_english",
+            "class_11_physical_education",
+            "class_11_islamic_studies",
+            "class_11_vedic_studies",
+            "class_11_buddhist_studies",
+            "class_11_travel_tourism",
+            "class_11_food_technology",
+            "class_11_english_literature"
           ]
         },
         {
           "name":"Home Science",
           "subjectRefs":[
-            "english",
-            "family_health",
-            "food_science",
-            "resource_management",
-            "computer_science",
-            "information_practices",
-            "functional_english",
-            "islamic_studies",
-            "vedic_studies",
-            "buddhist_studies",
-            "physical_education",
-            "travel_tourism",
-            "food_technology"
+            "class_11_english",
+            "class_11_family_health",
+            "class_11_food_science",
+            "class_11_resource_management",
+            "class_11_computer_science",
+            "class_11_information_practices",
+            "class_11_functional_english",
+            "class_11_islamic_studies",
+            "class_11_vedic_studies",
+            "class_11_buddhist_studies",
+            "class_11_physical_education",
+            "class_11_travel_tourism",
+            "class_11_food_technology"
           ]
         }
       ],
@@ -859,127 +858,127 @@
       "subjectBank": [
 
         {
-          "id": "general_english",
+          "id": "class_10_general_english",
           "name": "General English",
           "startPage": 8,
           "endPage": 14
         },
         {
-          "id": "hindi",
+          "id": "class_10_hindi",
           "name": "Hindi",
           "startPage": 15,
           "endPage": 18
         },
         {
-          "id": "urdu",
+          "id": "class_10_urdu",
           "name": "Urdu",
           "startPage": 19,
           "endPage": 24
         },
         {
-          "id": "mathematics",
+          "id": "class_10_mathematics",
           "name": "Mathematics",
           "startPage": 25,
           "endPage": 28
         },
         {
-          "id": "social_science",
+          "id": "class_10_social_science",
           "name": "Social Science",
           "startPage": 29,
           "endPage": 38
         },
         {
-          "id": "science",
+          "id": "class_10_science",
           "name": "Science",
           "startPage": 39,
           "endPage": 47
         },
         {
-          "id": "computer_science",
+          "id": "class_10_computer_science",
           "name": "Computer Science",
           "startPage": 48,
           "endPage": 51
         },
         {
-          "id": "dogri",
+          "id": "class_10_dogri",
           "name": "Dogri",
           "startPage": 52,
           "endPage": 52
         },
         {
-          "id": "sanskrit",
+          "id": "class_10_sanskrit",
           "name": "Sanskrit",
           "startPage": 53,
           "endPage": 54
         },
         {
-          "id": "bhoti",
+          "id": "class_10_bhoti",
           "name": "Bhoti",
           "startPage": 55,
           "endPage": 59
         },
         {
-          "id": "punjabi",
+          "id": "class_10_punjabi",
           "name": "Punjabi",
           "startPage": 60,
           "endPage": 62
         },
         {
-          "id": "persian",
+          "id": "class_10_persian",
           "name": "Persian",
           "startPage": 63,
           "endPage": 64
         },
         {
-          "id": "arabic",
+          "id": "class_10_arabic",
           "name": "Arabic",
           "startPage": 65,
           "endPage": 66
         },
         {
-          "id": "kashmiri",
+          "id": "class_10_kashmiri",
           "name": "Kashmiri",
           "startPage": 67,
           "endPage": 70
         },
         {
-          "id": "health_physical_education",
+          "id": "class_10_health_physical_education",
           "name": "Health & Physical Education",
           "startPage": 71,
           "endPage": 78
         },
         {
-          "id": "art_education",
+          "id": "class_10_art_education",
           "name": "Art Education",
           "startPage": 79,
           "endPage": 79
         },
         {
-          "id": "painting",
+          "id": "class_10_painting",
           "name": "Painting",
           "startPage": 80,
           "endPage": 81
         },
         {
-          "id": "music",
+          "id": "class_10_music",
           "name": "Music",
           "startPage": 82,
           "endPage": 83
         },
         {
-          "id": "home_science",
+          "id": "class_10_home_science",
           "name": "Home Science",
           "startPage": 84,
           "endPage": 86
         },
         {
-          "id": "art_drawing",
+          "id": "class_10_art_drawing",
           "name": "Art & Drawing",
           "startPage": 87,
           "endPage": 88
         },
         {
-          "id": "work_experience",
+          "id": "class_10_work_experience",
           "name": "Work Experience",
           "startPage": 89,
           "endPage": 90
@@ -989,27 +988,27 @@
 
       "subjectRefs": [
 
-        "general_english",
-        "hindi",
-        "urdu",
-        "mathematics",
-        "social_science",
-        "science",
-        "computer_science",
-        "dogri",
-        "sanskrit",
-        "bhoti",
-        "punjabi",
-        "persian",
-        "arabic",
-        "kashmiri",
-        "health_physical_education",
-        "art_education",
-        "painting",
-        "music",
-        "home_science",
-        "art_drawing",
-        "work_experience"
+        "class_10_general_english",
+        "class_10_hindi",
+        "class_10_urdu",
+        "class_10_mathematics",
+        "class_10_social_science",
+        "class_10_science",
+        "class_10_computer_science",
+        "class_10_dogri",
+        "class_10_sanskrit",
+        "class_10_bhoti",
+        "class_10_punjabi",
+        "class_10_persian",
+        "class_10_arabic",
+        "class_10_kashmiri",
+        "class_10_health_physical_education",
+        "class_10_art_education",
+        "class_10_painting",
+        "class_10_music",
+        "class_10_home_science",
+        "class_10_art_drawing",
+        "class_10_work_experience"
 
       ],
 
